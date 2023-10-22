@@ -1,5 +1,6 @@
 # An Automatic Traffic Lights System Using Pygame
-Software engineering project. Authors:  Xavier Beltran Urbano, Luisana Alvarez Monsalve,  Andrew Dwi Permana
+Software engineering project. 
+**Authors:**  Xavier Beltran Urbano, Luisana Alvarez Monsalve,  Andrew Dwi Permana
 
 ## Project description
 Traffic lights, often known as traffic signals, manage road traffic for pedestrians, automobiles, and other road users. The aim of this project is to recreate the functionality of an automatic traffic light system using Python. This project requires duties such as:
